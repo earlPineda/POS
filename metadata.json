@@ -1,0 +1,6 @@
+{
+  "name": "Matcha Classic POS & Inventory System",
+  "description": "Production-grade Point of Sale with real-time inventory management, food cost calculation, offline synchronization, multi-payment processing, encrypted backups, and multi-location analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
